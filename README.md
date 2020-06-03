@@ -18,3 +18,6 @@ The team profile generator is done through HTML and Javascript code in Visual St
 
 ## Challenges:
 This homework wasn't as hard as I thought it would be because I just had to create the classes for all of the team members! Getting the code to render the team.html document took some time but once I figured it out the assignment went quite well!
+
+## Working Screenshot:
+![image](images/teammembersummary.png)
